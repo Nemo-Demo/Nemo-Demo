@@ -6,7 +6,7 @@ Hér sýnir Njáll Daníelsson verkefni sín sem eru unnin í vefáföngunum:
 - ⚡ VEFÞ2VH, vefhönnun
 - ⚡ VEFÞ2VF, vefforritun
 
-😄 Nemodemo er eftirmyndarnemandi á tölvubraut tækniskólans.  
+😄 Nemodemo er eftirmyndarnemandi á tölvubraut Upplýsingatækniskólans.  
 
 Dæmi: 
 - ✨ [Lokaverkefni VEFÞ1VG](https://demonemo.github.io/beatles/)
