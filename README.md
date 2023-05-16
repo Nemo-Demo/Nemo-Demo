@@ -8,6 +8,8 @@ Hér sýnir Njáll Daníelsson verkefni sín sem eru unnin í vefáföngunum:
 
 😄 Nemodemo er eftirmyndarnemandi á tölvubraut tækniskólans.  
 
+Dæmi: []()
+
 <!--
 **Nemo-Demo/nemo-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
