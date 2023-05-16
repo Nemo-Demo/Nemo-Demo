@@ -12,6 +12,10 @@ Hér sýnir Njáll Daníelsson verkefni sín sem eru unnin í vefáföngunum:
 - ✨ [Lokaverkefni VEFÞ2VH](https://nemo-demo.github.io/)
 - ✨ [Lokaverkni VEFÞ2VF](http://nemodemo.pythonanywhere.com/)
 
+😄 Hér eru svo verkefni nemenda á á tölvubraut Upplýsingatækniskólans. 
+
+- ✨ [Vefþróun sýnidæmi](https://github.com/demonemo)
+
 <!--
 **Nemo-Demo/nemo-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
