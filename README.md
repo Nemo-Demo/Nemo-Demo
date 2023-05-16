@@ -8,7 +8,6 @@ Hér sýnir Njáll Daníelsson verkefni sín sem eru unnin í vefáföngunum:
 
 😄 Nemodemo er eftirmyndarnemandi á tölvubraut Upplýsingatækniskólans.  
 
-Dæmi: 
 - ✨ [Lokaverkefni VEFÞ1VG](https://demonemo.github.io/beatles/)
 - ✨ [Lokaverkefni VEFÞ2VH](https://nemo-demo.github.io/)
 - ✨ [Lokaverkni VEFÞ2VF](http://nemodemo.pythonanywhere.com/)
